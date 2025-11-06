@@ -2,8 +2,8 @@
 
 | Date  | Used hours | Subject(s) |  Outcome(s) |
 | :---         |     :---:      |     :---:      |     :---:      |
-| 5.11.2025 | 1 | Start module 1 | Module 1 finished|
-| 24.10.2025 | 4 | Preparing the course | Updated tasks  |
+| 05.11.2025 | 1 | Start module 1 | Module 1 finished|
+| 07.11.2025 | 0.5 | Start module2 | Module 2 finished  |
 | 28.10.2025 | 2 | Kick-off lecture  | Course started |
 | 3.11.2025 | 2 | Preparing for the lecture  | Material uptaded |
 | 4.11.2025 | 3 | Preparing for the lecture  | Material uptaded |
