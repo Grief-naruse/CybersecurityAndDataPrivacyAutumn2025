@@ -9,4 +9,5 @@
 | 11.11.2025 | 1 | 3 labs PortSwigger | End 3 labs PortSwigger |
 | 15.11.2025 | 1 | 3 labs PortSwigger | End 3 labs PortSwigger |
 | 18.11.2025 | 2 | Start Booking system phase 1 p1  | Booking system phase 1 p1 |
-| 20.11.2025 | 2 | Continue Booking system phase 1 p1 | Booking system phase 1 p1  |
+| 20.11.2025 | 2 | Continue Booking system phase 1 p1 | Booking system phase 1 p1 finished  |
+| 30.11.2025 | 4 | Booking system phase 1 p2 | Booking system phase 1 p2 finished  |
